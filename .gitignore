@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+model/
+logs/
+tmp_frames/
+tmp_videos/
